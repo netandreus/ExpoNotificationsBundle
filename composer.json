@@ -1,9 +1,9 @@
 {
-	"name": "solvecrew/expo-notifications-bundle",
+	"name": "netandreus/expo-notifications-bundle",
 	"type": "symfony-bundle",
-	"description": "Bundle to handle the BE tasks of the push notifications service for the expo react-native Framework.",
+	"description": "Bundle to handle the BE tasks of the push notifications service for the expo react-native Framework. Fixes for support Symfony 4.4+",
 	"keywords": ["Expo", "Push Notifications"],
-	"homepage": "http://solvecrew.github.com",
+	"homepage": "http://tokarchuk.ru",
 	"license": "MIT",
 	"authors": [
 		{
@@ -13,6 +13,10 @@
 		{
 			"name": "Yannick Treichel",
 			"email": "info@solvecrew.com"
+		},
+		{
+			"name": "Andrey Tokarchuk",
+			"email": "netandreus@gmail.com"
 		}
 	],
 	"require": {
